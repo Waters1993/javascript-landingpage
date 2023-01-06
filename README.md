@@ -1,4 +1,4 @@
-# 💸 Bankist Landing Page
+# Bankist Landing Page
 
 [Experiment with the live version.](https://waters1993.github.io/javascript-bankist/)
 
