@@ -153,7 +153,7 @@ const loadImg = function (entries, observer) {
     entry.target.classList.remove('lazy-img');
   });
 
-  observer.unobserve(entry);
+  observer.unobserve(entry.target);
 };
 
 const imgObserver = new IntersectionObserver(loadImg, {
