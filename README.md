@@ -13,8 +13,10 @@ I created the applications functionality with JavaScript.<br>
 Additional work involved colouring the tranactions table and adding a modal window to display login options for experimentation.
 
 ## JavaScript concepts and techniques used
-
-- Lazy Loading
+- Interstion Observer API
+- Lazy loading images
+- Smooth scroll
+- Building tabbed components
 
 ## Description & Functionality
 
