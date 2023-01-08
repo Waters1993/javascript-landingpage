@@ -4,24 +4,31 @@
 
 ## Motivation & Acknowledgements
 
-This project was created while completing "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann
+This project was created while completing "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann.
 
 ## Work Vs. Template Code
 
-HTML elements and CSS styling were provided as a template file for this project.<br>
-I created the applications functionality with JavaScript.<br>
-Additional work involved colouring the tranactions table and adding a modal window to display login options for experimentation.
+HTML elements and CSS styling were provided as a template file for this landing page.<br>
+I added JavaScript to add dynamic and interactive content to the page such as a sticky nav bar, a tabbed component, and a slider component. I utilized the intersection observer API to add smooth transitions to each section. Performance considerations included lazy loading images and efficient script loading.<br>
 
 ## JavaScript concepts and techniques used
+
+- Event Propagation: Bubbling and Capturing
 - Interstion Observer API
 - Lazy loading images
 - Smooth scroll
-- Building tabbed components
+- Building tabed and slider components
 
-## Description & Functionality
+## Description
 
-<img src="./images/login.PNG" alt="landingPage" width="800"/>
-<div align="center">Landing page</div>
+<div align="center">
+  <img src="./images/landing.PNG" alt="landingPage" width="650"/>
+  <p>Landing Page</p>
+  <img src="./images/tabbed.PNG" alt="landingPage" width="650"/>
+  <p>Tabbed component</p>
+  <img src="./images/slider.PNG" alt="landingPage" width="650"/>
+  <p>Slider componet</p>
+</div>
 
 ## Built With
 
