@@ -1,6 +1,6 @@
 # Bankist Landing Page
 
-[Experiment with the live version.](https://waters1993.github.io/javascript-bankist/)
+[Experiment with the live version.](https://waters1993.github.io/javascript-landingpage/)
 
 ## Motivation & Acknowledgements
 
@@ -19,15 +19,15 @@ I added JavaScript to add dynamic and interactive content to the page such as a 
 - Smooth scroll
 - Building tabed and slider components
 
-## Description
+## Site images
 
 <div align="center">
-  <img src="./images/landing.PNG" alt="landingPage" width="650"/>
   <p>Landing Page</p>
+  <img src="./images/landing.PNG" alt="landingPage" width="650"/>
+   <p>Tabbed component</p>
   <img src="./images/tabbed.PNG" alt="landingPage" width="650"/>
-  <p>Tabbed component</p>
+ <p>Slider componet</p>
   <img src="./images/slider.PNG" alt="landingPage" width="650"/>
-  <p>Slider componet</p>
 </div>
 
 ## Built With
