@@ -1,4 +1,4 @@
-# Bankist Landing Page
+# Landing Page built with HTML, CSS, and JavaScript
 
 [Experiment with the live version.](https://waters1993.github.io/javascript-landingpage/)
 
